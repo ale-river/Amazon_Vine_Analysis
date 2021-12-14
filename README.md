@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis :EMOJICODE:
+# Amazon_Vine_Analysis :shipit:
 
 This project helps to apply skills in:
 - Importing data into a table for analysis.
@@ -27,4 +27,4 @@ The percentage of 5-star ratings for both groups. 51% of Amazon reviews that wer
 In conclusion, there are less Amazon reviews that had "viners" than those do not have "viners". Therefore, there is a probable biased in the "Star Ratings".
 
 SQL vine_table -> Connection between AWS and pgAdmin.
-!(vine_table)[resources/vine_table.png]
+![vine_table](resources/vine_table.png)
